@@ -1,38 +1,10 @@
-# create-svelte
+# which is more populated!
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+**A quiz ❓ game 🎮 about the population of different cities 🌆.**
 
-## Creating a project
+**[Play in the browser](https://maximo-is-procrastinating.pages.dev/which-is-more-populated)**
 
-If you're seeing this, you've probably already done this step. Congrats!
+https://github.com/MaximoGCH/maximo-is-procrastinating/assets/47754663/5bd12b16-65f5-44e7-95b1-d712f95513ef
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+- This project was done in a couple of days with the power of procrastination 😪. 
+- All images are taken from wikipedia with their corresponding licenses.
